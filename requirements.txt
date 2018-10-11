@@ -8,5 +8,4 @@ pycparser==2.18
 pycrypto==2.6.1
 Pyro4==4.73
 python-dateutil==1.5
-scipy==0.13.0b1
 WSGIserver==1.3
